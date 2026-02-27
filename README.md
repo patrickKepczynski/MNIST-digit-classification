@@ -17,7 +17,7 @@ You can try the live version of the app here: [LÄNK TILL DIN STREAMLIT APP]
 
 1. **Clone this repository** (or download the files):
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/patrickKepczynski/MNIST-digit-classification
 
 2. **Install the required dependencies:**
 Make sure you have Python installed, then run:
