@@ -11,7 +11,7 @@ The prediction engine is powered by an **ExtraTreesClassifier** trained on the c
 * **Accuracy:** The finalized model achieved a **>97% accuracy** on unseen test data.
 
 ## 🚀 Live Demo
-You can try the live version of the app here: [LÄNK TILL DIN STREAMLIT APP]
+You can try the live version of the app here: https://mnist-keppa.streamlit.app/
 
 ## 🛠️ How to run it locally
 
